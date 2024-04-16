@@ -1,5 +1,4 @@
 
-
 let a = prompt("Введите число A");
 let b = prompt("Введите число B");
 
